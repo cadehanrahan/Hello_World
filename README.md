@@ -1,4 +1,4 @@
-## Table of contents
+### Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -7,10 +7,10 @@
 
 **Hello World Sample**
 
-## Description
+### Description
 Sample repository created to become familiar with GitHub.
 
-## Hello_World
+#### Hello_World
 
 ***Hi Everyone!***
 
