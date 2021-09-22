@@ -10,9 +10,9 @@
 #### Description
 Sample repository created to become familiar with GitHub.
 
-##Hello_World
+## Hello_World
 
-*** Hi Everyone!***
+***Hi Everyone!***
 
 -Cade Hanrahan here, I am currently in my third year at the University of Iowa. Majoring in Business Analytics and Info Systems.
 
