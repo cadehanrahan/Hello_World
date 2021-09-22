@@ -7,6 +7,9 @@
 
 **Hello World Sample**
 
+## Description
+Sample repository created to become familiar with GitHub.
+
 ## Hello_World
 
 ***Hi Everyone!***
